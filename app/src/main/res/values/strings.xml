@@ -2,5 +2,21 @@
     <string name="app_name">Color</string>
     <string name="bt_find_description">Определить цвет</string>
 
+        <string-array name="sp_colors">
+            <item>Красный</item>
+            <item>Зеленый</item>
+            <item>Синий</item>
+            <item>Желтый</item>
+            <item>Белый</item>
+            <item>Черный</item>
+        </string-array>
 
+        <string-array name="sp_description_of_temp">
+            <item>Это красный цвет</item>
+            <item>Это зеленый цвет</item>
+            <item>Это синий цвет</item>
+            <item>Это желтый цвет</item>
+            <item>Это белый цвет</item>
+            <item>Это черный цвет</item>
+        </string-array>
 </resources>
